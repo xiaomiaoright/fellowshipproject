@@ -2,7 +2,7 @@ hello
 there
 
 
-This short bit of text is startlling to be a litttttle limiting 
+This short bit of text is startlling to be a little limiting 
 It would be good to have more text to show something more 
 interesting happening that is a little more like a real-world 
 example.
